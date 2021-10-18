@@ -4,7 +4,7 @@ using namespace std; //haha
 int main()
 {
     int test;
-	long long int i,N,A,B,K,sum,gcd,lcm;
+	long long int i,N,A,B,K,sum,gcd,lcm,t;
 	scanf("%d",&test);
 	for(i=1;i<=test;i++)
 	{   sum=0;
